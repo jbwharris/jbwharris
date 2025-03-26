@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jbwharris, I'm a UI designer, developer and dabbler. 
 - 👀 I’m interested in tools that integrate with last.fm for scrobbling and manipulating data pulled from there in cool ways. 
 - 🌱 I’m currently building a streaming radio app called [ScrobbleRadio](https://scrobblerad.io).
-- 📫 How to reach me [Mastodon](https://mstdn.ca/@jbwharris), [Bluesky](https://bsky.app/profile/jbwharr.is), [Threads](https://threads.net/jbwharris) or [Email](mailto:hi@jbwharr.is)
+- 📫 How to reach me [Bluesky](https://bsky.app/profile/jbwharr.is), [Mastodon](https://mstdn.ca/@jbwharris) or [Email](mailto:hi@jbwharr.is)
 
 <!---
 jbwharris/jbwharris is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
